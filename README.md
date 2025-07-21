@@ -15,7 +15,6 @@ A simple expense tracking system built using Laravel.
 ## 🛠 Tech Stack
 
 - **Backend**: Laravel 10+
-- **Frontend**: Bootstrap (optional)
 - **Database**: MySQL
 - **PDF Generation**: Laravel DOMPDF
 - **PHP Version**: 8.0+
@@ -26,11 +25,10 @@ A simple expense tracking system built using Laravel.
 - PHP 8.0+
 - Composer
 - MySQL
-- Node.js (if using frontend assets)
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/dsranasinghe/expense-tracker.git
    cd expense-tracker
